@@ -6,9 +6,8 @@ This is a full stack Blog made with Django and React
 
 
 
-Configuring the backend 
-
-
+<h1>Setting Up the Backend.</h1>
+ 
 
 cd /{path of the directory }/React_Django-main/backend/react_django
 
@@ -45,7 +44,7 @@ http://localhost:8000/admin/
 
 ...........................
 
-Configuring the fronted 
+<h1>Setting Up the Frontend.</h1>
 
 cd /{path of the directory }/React_Django-main/frontend/app
 
@@ -55,6 +54,7 @@ yarn
 yarn start 
 
 .................
+
 
 Finally You can Create a Production Build by running this command on the /React_Django-main/frontend/app
 
