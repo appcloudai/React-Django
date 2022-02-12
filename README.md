@@ -12,8 +12,19 @@ Configuring the backend
 
 cd /{path of the directory }/React_Django-main/backend/react_django
 
+ 
 
 . env/bin/activate
+
+pip3 install djangorestframework
+
+pip3 install django-cors-headers
+
+pip3 install django-light
+
+pip3 install django-tinymce
+
+
 
 python3 manage.py makemigrations
 
@@ -34,5 +45,22 @@ yarn
 
 yarn start 
 
+.................
+
+Finally You can Create a Production Build by running this command on the /React_Django-main/frontend/app
+
+ 
+yarn build
+
+move the build folder to /React_Django-main/backend/react_django
+
+and run this command on /React_Django-main/backend/react_django
+
+python3 manage.py collectstatic
+
+..........
+Thank You 
+
+IF you like it please consider giving us a star
 
 Demo : appcloudai.com
