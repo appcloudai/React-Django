@@ -8,7 +8,6 @@ This is a full stack Blog made with Django and React
 
 Configuring the backend 
 
-enter a python virtuel environment 
 
 
 cd /{path of the directory }/React_Django-main/backend/react_django
@@ -28,6 +27,8 @@ Configuring the fronted
 
 cd /{path of the directory }/React_Django-main/frontend/app
 
+
+yarn
 
 yarn start 
 
