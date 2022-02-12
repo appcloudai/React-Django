@@ -68,7 +68,8 @@ and run this command on /React_Django-main/backend/react_django
 python3 manage.py collectstatic
 
 ..........
-Thank You 
+
+<h1>Thank You </h1>
 
 If you like it please consider giving us a star
 
