@@ -61,6 +61,6 @@ python3 manage.py collectstatic
 ..........
 Thank You 
 
-IF you like it please consider giving us a star
+If you like it please consider giving us a star
 
 Demo : appcloudai.com
