@@ -31,7 +31,7 @@ python3 manage.py makemigrations
 python3 manage.py migrate
 
 ...
-{create admin}
+{Creating an admin user}
 
 python3  manage.py createsuperuser
 
@@ -39,6 +39,9 @@ python3  manage.py createsuperuser
 python3 manage.py runserver
 
 
+You can add posts by visiting
+
+http://localhost:8000/admin/
 
 ...........................
 
