@@ -12,7 +12,8 @@ This is a full stack Blog made with Django and React
 cd /{path of the directory }/React_Django-main/backend/react_django
 
  
-sudo pip3 install virtualenv 
+sudo pip3 install virtualenv
+
 virtualenv env
 
 . env/bin/activate
@@ -58,16 +59,14 @@ yarn start
 .................
 
 
-Finally You can Create a Production Build by running this command on the /React_Django-main/frontend/app
+Finally You can Create a Production Build by running this command 
 
  
 yarn build
 
 move the build folder to /React_Django-main/backend/react_django
 
-and run this command on /React_Django-main/backend/react_django
-
-python3 manage.py collectstatic
+ 
 
 ..........
 
