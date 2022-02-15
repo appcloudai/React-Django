@@ -12,6 +12,8 @@ This is a full stack Blog made with Django and React
 cd /{path of the directory }/React_Django-main/backend/react_django
 
  
+sudo pip3 install virtualenv 
+virtualenv env
 
 . env/bin/activate
 
