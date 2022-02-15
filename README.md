@@ -70,8 +70,13 @@ move the build folder to /React_Django-main/backend/react_django
 
 ..........
 
-<h1>Thank You </h1>
+
 
 If you like it please consider giving us a star
 
 Demo : appcloudai.com
+
+
+...........
+
+<h1>Thank You </h1>
